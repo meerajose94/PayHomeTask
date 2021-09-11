@@ -1,0 +1,17 @@
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\PayHomeTask.exe
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\PayHomeTask.deps.json
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\PayHomeTask.runtimeconfig.json
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\PayHomeTask.runtimeconfig.dev.json
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\PayHomeTask.dll
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\PayHomeTask.pdb
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.AssemblyInfoInputs.cache
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.AssemblyInfo.cs
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.csproj.CopyComplete
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.dll
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.pdb
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.genruntimeconfig.cache
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\obj\Debug\netcoreapp3.1\PayHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\munnu\source\repos\PayHomeTask\PayHomeTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
